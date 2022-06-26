@@ -68,4 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Movie-search
+
+
+import React from 'react';
+
+
+const App = () => {
+  return (
+    <>
+    <button>+</button>
+    <button>0</button>
+    <button>-</button>
+    <>
+  )
+}
+
+export default App# Movie-search
